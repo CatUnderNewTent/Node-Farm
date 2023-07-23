@@ -4,11 +4,8 @@
   "description": "Learning node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "author": "Luka",
-  "license": "ISC",
-  "dependencies": {
-    "heroku": "^8.1.9"
-  }
+  "license": "ISC"
 }
